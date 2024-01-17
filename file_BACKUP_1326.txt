@@ -1,0 +1,6 @@
+some text add
+<<<<<<< HEAD
+some comments on remote
+=======
+this is 2nd line.
+>>>>>>> 3367d21e57f53253ca4bb15d806a35fd219fa033
